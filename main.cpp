@@ -13,7 +13,6 @@ int main(){
 	product=x*y;
 	cout<<"sum of two number is :\t"<<sum<<endl;
 	cout<<"Product of two number is :\t"<<product<<endl;
-	done
 	
 }
 
