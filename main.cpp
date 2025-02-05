@@ -14,6 +14,7 @@ int main(){
 	cout<<"sum of two number is :\t"<<sum<<endl;
 	cout<<"Product of two number is :\t"<<product<<endl;
 	done!
+	exit
 	
 }
 
